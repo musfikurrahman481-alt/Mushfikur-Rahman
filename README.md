@@ -1,1 +1,1 @@
-# Digital-IP-Lab
+# DIP-Lab
